@@ -13,7 +13,7 @@
 
 This repository is intended as an aid in Chrome extension development.
 It provides a skeleton you can use to kickstart development of a new
-extension who has a focus on content scripts.
+extension that has a focus on content scripts.
 
 The intention is to create a number of skeletons that target different types
 of Chrome extensions, for example those who only use content scripts all the way
