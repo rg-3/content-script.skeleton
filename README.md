@@ -1,4 +1,4 @@
-# content-script.skeleton
+# onethird.skeleton
 
 **Table of contents**
 
@@ -74,7 +74,7 @@ be simpler.
 The install process is simple. All you have to do is clone the project and
 then adopt it as the starting point for your new extension.
 
-    git clone https://github.com/rg-3/content-script.skeleton my-project-name
+    git clone https://github.com/rg-3/onethird.skeleton my-project-name
     cd my-project-name
     # Make room for your own repository
     rm -rf .git
@@ -83,5 +83,5 @@ then adopt it as the starting point for your new extension.
 
 ## <a id='source'>Source</a>
 
-The project homepage for this skeleton is at [https://github.com/rg-3/content-script.skeleton](https://github.com/rg-3/content-script.skeleton).
+The project homepage for this skeleton is at [https://github.com/rg-3/onethird.skeleton](https://github.com/rg-3/onethird.skeleton).
 I am maintaining other Chrome extension skeletons that might be useful on my [github profile](https://github.com/rg-3).
