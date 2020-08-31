@@ -92,4 +92,4 @@ then adopt it as the starting point for your new extension.
 ## <a id='source'>Source</a>
 
 The project homepage for this skeleton is at [https://github.com/rg-3/onethird.skeleton](https://github.com/rg-3/onethird.skeleton).
-I am maintaining other Chrome extension skeletons that might be useful on my [github profile](https://github.com/rg-3).
+I am maintaining other Chrome extension skeletons that might be helpful on my [github profile](https://github.com/rg-3).
