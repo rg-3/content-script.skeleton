@@ -79,8 +79,8 @@ because that model of development can be simpler.
 
 ## <a id='install'> Install </a>
 
-The install process is simple. All you have to do is clone the project and
-then adopt it as the starting point for your new extension.
+The install process is simple.  
+All you have to do is clone the repository and then adopt it as the starting point for your new extension.
 
     git clone https://github.com/rg-3/onethird.skeleton my-project-name
     cd my-project-name
