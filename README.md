@@ -46,16 +46,20 @@ because that model of development can be simpler.
 
 ## <a id='file-layout'> File layout </a>
 
-* The [`src/js`](src/js) directory holds another directory named [`content-scripts`](/src/content-scripts).
-  Inside that directory content scripts can be placed. From [`src/manifest.json`](/src/manifest.json)
-  the pages the scripts should be added to can be configured.
+**JavaScript**
 
-  [`src/js/content-scripts/content-script.js`](src/js/content-scripts/content-script.js) is
-  provided as a starting point and to help with quick development.
+* The [`src/js`](src/js) directory is for JavaScript belonging to your extension.
+
+* The [`src/js/content-scripts/`](/src/content-scripts) directory is for content 
+  scripts belonging to your extension.
+
+* The [`src/js/content-scripts/content-script.js`](src/js/content-scripts/content-script.js) is
+  provided as a starting point to help with quick development.
+
+**Images**
 
 * The [`src/images`](/src/images) directory holds placeholder icons that the browser will
   display alongside the address bar and on the `chrome://extensions` page.
-  Most likely you will eventually want to update these for your own extension.
 
 ## <a id='file-layout-visual'> File layout (visual) </a>
 
