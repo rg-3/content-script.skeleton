@@ -16,17 +16,6 @@ This repository is intended as an aid in Chrome extension development.
 It provides a skeleton you can use to kickstart development of a new
 extension that has a focus on content scripts.
 
-## <a id='goals'>Goals</a>
-
-The end goal is to create a number of skeletons that target different types
-of Chrome extensions, for example those who only use content scripts all the way
-to those who have content scripts, a background page, and a browser action. Or
-different combinations of all three.
-
-I eventually hope to provide skeletons that have an option to use webpack and 
-other build tools as well as having skeletons that do not use them (such as 
-this one).
-
 ## <a id='overview'>Overview</a>
 
 * This skeleton is designed for an extension that injects content scripts
